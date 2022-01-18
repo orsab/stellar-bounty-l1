@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stellar-bounty-l1/static/css/main.15bdbfb4.css",
-    "main.js": "/stellar-bounty-l1/static/js/main.cac9171f.js",
+    "main.js": "/stellar-bounty-l1/static/js/main.a18a7060.js",
     "index.html": "/stellar-bounty-l1/index.html",
     "main.15bdbfb4.css.map": "/stellar-bounty-l1/static/css/main.15bdbfb4.css.map",
-    "main.cac9171f.js.map": "/stellar-bounty-l1/static/js/main.cac9171f.js.map"
+    "main.a18a7060.js.map": "/stellar-bounty-l1/static/js/main.a18a7060.js.map"
   },
   "entrypoints": [
     "static/css/main.15bdbfb4.css",
-    "static/js/main.cac9171f.js"
+    "static/js/main.a18a7060.js"
   ]
 }
