@@ -28,7 +28,10 @@ export function Account() {
 
       <br />
       {!account.walletConnected && (
-        <button onClick={() => dispatch(connectWallet())}>Connect</button>
+          <>
+            <h2>This application uses Rabet wallet, please go <a href="https://rabet.io/download">here</a> and download it</h2>
+            <button onClick={() => dispatch(connectWallet())}>Connect</button>
+          </>
       )}
       {account.walletConnected && (
         <button onClick={() => dispatch(disconnectWallet())}>Disconnect</button>
