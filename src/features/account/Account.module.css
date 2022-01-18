@@ -1,0 +1,10 @@
+.date{
+    font-size: 20px;
+    color: grey;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
